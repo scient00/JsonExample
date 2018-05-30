@@ -1,0 +1,17 @@
+{
+	"appId_face":"4c4af5b01ff0148b54459e66306bb3a3",
+	"appSecrect":"f2ebaa6d5aeaa578589415e4da4d075f596ec3e5",
+	"rsFacedbPath":"./RsFaceDB",
+	"faceFeaturePath":"./FeatureFile",
+	"faceTestResultPath":"./fTestResult",
+	"faceTestKey":{
+		"detect":1,
+		"recognition":1,
+		"track":1,
+		"livenssdete":1,
+		"attributedete":1,
+		"quality":1
+	},
+	//测试注释//
+	"achievement":["ach1","ach2","ach3"]
+}
